@@ -5,8 +5,7 @@
     "store": "https://store.zeromc.it/",
     "description": "ZeroMC. Join our Network and enjoy all our modes!",
     "addresses": [
-        "zeromc.it",
-        "premium.zeromc.it"
+        "zeromc.it"
     ],
     "primaryAddress": "play.zeromc.it",
     "minecraftVersions": [
